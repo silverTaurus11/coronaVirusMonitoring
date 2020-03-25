@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="covid_19_url">https://covid-19-coronavirus-statistics.p.rapidapi.com</string>
+    <string name="covid_19_host">covid-19-coronavirus-statistics.p.rapidapi.com</string>
+    <string name="covid_19_key">88da9e6daamshba45ba43bcac759p198345jsn2993b8290085</string>
+</resources>

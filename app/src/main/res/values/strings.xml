@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Corona Monitoring</string>
+    <string name="general_positive">Positive</string>
+    <string name="general_death">Death</string>
+    <string name="general_recovered">Recovered</string>
+    <string name="general_welcome">Hi, $1</string>
+    <string name="general_last_update">Last Update: $1</string>
+    <string name="general_country_form">Country: $1</string>
+    <string name="general_total_data">Total Data: $1</string>
+    <string name="general_country_hint">Country Search</string>
+    <string name="general_toast_input_error">Please check your country of input.</string>
+    <string name="general_refresh_button">Refresh</string>
+</resources>

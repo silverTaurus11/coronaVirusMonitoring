@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Corona Monitoring</string>
+    <string name="general_positive">Positif</string>
+    <string name="general_death">Mati</string>
+    <string name="general_recovered">Sembuh</string>
+    <string name="general_welcome">Halo, $1</string>
+    <string name="general_last_update">Update Terakhir: $1</string>
+    <string name="general_country_form">Negara: $1</string>
+    <string name="general_total_data">Total Data: $1</string>
+    <string name="general_country_hint">Cari Negara</string>
+    <string name="general_toast_input_error">Harap cek negara yang kamu cari!</string>
+    <string name="general_refresh_button">Refresh</string>
+
+</resources>
